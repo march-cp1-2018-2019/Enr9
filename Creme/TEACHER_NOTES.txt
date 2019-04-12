@@ -1,0 +1,3 @@
+The CustomerManager.zip you turned in looks just like the original source code.  It doesn't look like you completed the exercise from the book.
+The ProductManager.zip file is empty.  Did you mean to turn in an empty zip?
+You can turn these in again.
